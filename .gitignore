@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+.idea
+data/cleaned/airport/*
+data/cleaned/demographic/*
+data/cleaned/immigration/data_dict/*
+data/cleaned/immigration/sample/*
+data/processed/*
+data/raw/18-83510-I94-Data-2016/*
+data/raw/GlobalLandTemperaturesByCity.csv
